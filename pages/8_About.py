@@ -36,7 +36,7 @@ feature selection.
 st.header("🔬 Study Workflow")
 
 st.image(
-    "assets/workflow.png",
+    "assets/workflow(4).png",
     use_container_width=True
 )
 
