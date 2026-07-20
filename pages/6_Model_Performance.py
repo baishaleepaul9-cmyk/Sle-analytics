@@ -125,7 +125,7 @@ performance evaluation and external validation.
 """)
 
 st.image(
-    "assets/workflow(2).png",
+    "assets/Workflowfinal.png",
     use_container_width=True
 )
 
